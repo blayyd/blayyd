@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C++ and elementary Linear Algebra.
+- 🌱 I’m currently a sophomore in college studying Electrical Engineering
 <!--
 **blayyd/blayyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
